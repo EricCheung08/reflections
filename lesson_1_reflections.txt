@@ -15,3 +15,10 @@ git log shows all the history of the files, the time stamp, and the short messag
 
 How might using version control make you more confident to make changes that could break something?
 I know that if I break something, I can always revert back.
+
+class notes:
+
+Choose a text editor
+https://classroom.udacity.com/courses/ud775/lessons/2980038599/concepts/29975186190923  
+
+Setting up sublime: https://www.udacity.com/wiki/ud775/sublime
